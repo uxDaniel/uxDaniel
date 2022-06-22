@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Daniel 👋</h1>
 <h3 align="center">📊 Product Manager • Software Engineer 👨‍💻</h3>
 
+[![Personal website](https://img.shields.io/website?style=flat-square&up_message=https%3A%2F%2Fdanielgarcia.co%2F&url=https%3A%2F%2Fdanielgarcia.co)](https://danielgarcia.co/) [![Linkdin](https://img.shields.io/badge/linkedin-dagarcia-blue)](https://www.linkedin.com/in/dagarcia/) 
+
+
 ### Professional Profile
 Bilingual Computer Science Engineer specialized in product design and web development. Data-driven Product Manager with proven ability to find the right balance between business, engineering, design, and user needs. More than 12 years of professional web development experience. Great skills in systems design, software architecture, problem-solving and database modeling.
 

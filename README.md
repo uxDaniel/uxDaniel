@@ -8,17 +8,32 @@
 Bilingual Computer Science Engineer specialized in product design and web development. Data-driven Product Manager with proven ability to find the right balance between business, engineering, design, and user needs. More than 12 years of professional web development experience. Great skills in systems design, software architecture, problem-solving and database modeling.
 
 ### About me
-- I’m currently working at **Microsoft** as a Sr. Program Manager in the Telephone Numbers area ☎️.
-- I still love programming (specially in Python 🐍), but I mostly do it for fun now 💻.
+- I’m currently working at **Microsoft** as a Sr. Product Manager in the Telephone Numbers area ☎️.
+- I love programming (specially in Python 🐍), but now I just do it for fun 💻.
 
 
 ### Languages and Tools
+<table>
+<tr>
+<td>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=uxdaniel&show_icons=true&locale=en&layout=compact)
+</td>
+<td>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxdaniel&show_icons=true&locale=en)
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=uxdaniel)
+</td>
+</tr>
+</table>
+
+
+
 
 ----
 ![Profile views](https://komarev.com/ghpvc/?username=uxdaniel&label=Profile%20views&color=0e75b6&style=flat)

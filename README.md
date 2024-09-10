@@ -17,11 +17,11 @@ Bilingual Computer Science Engineer specialized in product design and web develo
 <tr>
 <td>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=uxdaniel&show_icons=true&locale=en&layout=compact&size_weight=0.01&count_weight=1)
+![Most used languages](https://github-readme-stats-v4ho.vercel.app/api/top-langs?username=uxdaniel&show_icons=true&locale=en&layout=compact&size_weight=0.01&count_weight=1)
 </td>
 <td>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uxdaniel&show_icons=true&locale=en)
+![GitHub stats](https://github-readme-stats-v4ho.vercel.app/api?username=uxdaniel&show_icons=true&locale=en)
 </td>
 </tr>
 <tr>
